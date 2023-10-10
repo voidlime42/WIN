@@ -1,0 +1,12 @@
+{
+  "files": {
+    "git/hooks/applypatch-msg.sample": [
+      {
+        "id": "0dfcc625-fa05-43e7-9347-ec59fbe05b81",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
